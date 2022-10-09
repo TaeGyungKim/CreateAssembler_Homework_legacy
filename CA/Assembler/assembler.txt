@@ -1,0 +1,10 @@
+ADD AD
+LDA A  
+STA A
+ADDABADD A 
+ADD A B
+addabadd a 
+add a b
+addabadd a 
+add a b
+addabaddabaddabasd
